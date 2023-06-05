@@ -11,4 +11,4 @@ artifacts.*
 *.env
 
 # Ignores a top-level directory named artifacts
-artifacts.*
+/artifacts/.
